@@ -1,0 +1,14 @@
+{
+  "name": "dg-reqnorm-probe",
+  "version": "1.0.0",
+  "private": true,
+  "description": "own-object probe of GitHub dependency-graph requirement normalisation",
+  "dependencies": {
+    "chalk": "1.2.3 - 2.0.0",
+    "debug": "2.1.x",
+    "is-even": "<1.0.0-beta",
+    "is-odd": "^9.9.9+betamax",
+    "left-pad": ">=1.0.0 <2.0.0-beta",
+    "lodash": "^1.0.0"
+  }
+}
