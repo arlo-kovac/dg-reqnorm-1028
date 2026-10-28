@@ -1,0 +1,7 @@
+{
+  "name": "ctl2",
+  "version": "1.0.0",
+  "dependencies": {
+    "mermaid": "^7.1.2-alpha.1"
+  }
+}
